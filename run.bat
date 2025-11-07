@@ -1,0 +1,3 @@
+@echo off
+echo Starting Pomodoro Timer...
+java -cp bin com.pomodorotimer.PomodoroApp
